@@ -1,5 +1,5 @@
 body{
-    background-image: url("/images/background1.jpg" );
+    background-image: url("/background1.jpg" );
     background-repeat:no-repeat;
     background-size:  100% 440px ;
     /* background-attachment: fixed; */
@@ -214,7 +214,7 @@ body{
     background-size:contain;
     
 
-    background-image: url(/images/logo.jpg);
+    background-image: url(/logo.jpg);
     
 }
 
